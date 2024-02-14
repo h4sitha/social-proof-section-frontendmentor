@@ -19,3 +19,16 @@ main {
     flex-direction: column;
 }
 
+#top-left {
+    width: 350px;
+}
+
+#top-left > h1 {
+    font-size: 2.85rem;
+    line-height: 2.6rem;
+    margin-bottom: 20px;
+}
+
+#top-left > p {
+    line-height: 1.3rem;
+}

@@ -69,3 +69,31 @@ main {
 .rating:nth-of-type(3) {
     align-self: flex-end;
 }
+
+.review {
+    border: 1px solid red;
+    padding: 30px 25px;
+    width: 235px;
+}
+
+.review .top {
+    display: flex;
+}
+
+.review img {
+    border-radius: 50%;
+    height: 35px;
+}
+
+.review h2 {
+    font-size: 1rem;
+}
+
+.review p {
+    font-size: 0.90rem;
+    line-height: 1.2rem;
+}
+
+.review span {
+    font-size: 0.96rem;
+}

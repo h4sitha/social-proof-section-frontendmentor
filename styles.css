@@ -7,3 +7,15 @@ html {
 body {
     font-family: "League Spartan";
 }
+
+main,
+#top-part,
+#lower-part,
+.rating {
+    display: flex;
+}
+
+main {
+    flex-direction: column;
+}
+

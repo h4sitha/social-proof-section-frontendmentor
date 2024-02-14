@@ -57,5 +57,15 @@ main {
 }
 
 #top-right {
-    width: 400px;
+    width: 435px;
+    display: flex;
+    flex-direction: column;
+}
+
+.rating:nth-of-type(2) {
+    align-self: center;
+}
+
+.rating:nth-of-type(3) {
+    align-self: flex-end;
 }

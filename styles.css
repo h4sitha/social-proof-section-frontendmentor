@@ -108,3 +108,20 @@ main {
 .review p {
     color: hsl(0, 0%, 100%);
 }
+
+#lower-part {
+    gap: 20px;
+    height: 210px;
+}
+
+.review:nth-of-type(1) {
+    align-self: flex-start;
+}
+
+.review:nth-of-type(2) {
+    align-self: center;
+}
+
+.review:nth-of-type(3) {
+    align-self: flex-end;
+}

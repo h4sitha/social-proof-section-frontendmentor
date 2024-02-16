@@ -54,12 +54,14 @@ main {
     font-weight: 700;
     margin-left: 25px;
     font-size: 0.91rem;
+    color: hsl(300, 43%, 22%);
 }
 
 #top-right {
     width: 435px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .rating:nth-of-type(2) {

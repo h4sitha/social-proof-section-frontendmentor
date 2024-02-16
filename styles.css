@@ -71,9 +71,10 @@ main {
 }
 
 .review {
-    border: 1px solid red;
     padding: 30px 25px 15px 25px;
     width: 235px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 7px;
 }
 
 .review .top {
@@ -100,4 +101,10 @@ main {
 
 .review span {
     font-size: 0.96rem;
+    color: hsl(333, 80%, 67%);
+}
+
+.review h2,
+.review p {
+    color: hsl(0, 0%, 100%);
 }

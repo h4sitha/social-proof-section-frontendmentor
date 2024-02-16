@@ -72,12 +72,14 @@ main {
 
 .review {
     border: 1px solid red;
-    padding: 30px 25px;
+    padding: 30px 25px 15px 25px;
     width: 235px;
 }
 
 .review .top {
     display: flex;
+    align-items: center;
+    gap: 15px;
 }
 
 .review img {
@@ -86,12 +88,14 @@ main {
 }
 
 .review h2 {
-    font-size: 1rem;
+    font-size: 0.95rem;
+    margin: 0 0 3px 0;
 }
 
 .review p {
     font-size: 0.90rem;
     line-height: 1.2rem;
+    margin-top: 19px;
 }
 
 .review span {

@@ -86,9 +86,15 @@ main {
 
 .review {
     padding: 30px 25px 18px 20px;
-    width: 280px;
+    width: 250px;
     background-color: hsl(300, 43%, 22%);
     border-radius: 7px;
+    min-width: 100px;
+    flex-grow: 1;
+}
+
+#lower-part {
+    flex-wrap: wrap;
 }
 
 .review .top {

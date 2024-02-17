@@ -17,6 +17,9 @@ main,
 
 main {
     flex-direction: column;
+    width: 95%;
+    max-width: 925px;
+    padding: 20px;
 }
 
 #top-left {
@@ -129,6 +132,6 @@ main {
 }
 
 * {
-    /* border: 1px solid yellowgreen; */
+    border: 1px solid yellowgreen;
     box-sizing: border-box;
 }

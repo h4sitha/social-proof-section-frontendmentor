@@ -164,4 +164,12 @@ main {
         align-self: auto;
     }
 
+    #top-right {
+        align-items: center;
+    }
+
+    #top-right .rating {
+        align-self: auto;
+    }
+
 }

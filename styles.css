@@ -127,3 +127,7 @@ main {
 .review:nth-of-type(3) {
     align-self: flex-end;
 }
+
+* {
+    border: 1px solid yellowgreen;
+}

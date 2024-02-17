@@ -15,6 +15,10 @@ main,
     display: flex;
 }
 
+#top-part {
+    justify-content: space-between;
+}
+
 main {
     flex-direction: column;
     width: 95%;
@@ -115,7 +119,7 @@ main {
 }
 
 #lower-part {
-    gap: 20px;
+    justify-content: space-between;
     height: 210px;
 }
 

@@ -29,17 +29,20 @@ main {
 }
 
 #top-left {
-    width: 350px;
+    width: 375px;
 }
 
 #top-left > h1 {
     font-size: 2.85rem;
     line-height: 2.6rem;
     margin-bottom: 20px;
+    color: hsl(300, 43%, 22%);
 }
 
 #top-left > p {
     line-height: 1.3rem;
+    color: hsl(303, 10%, 53%);
+    font-weight: 500;
 }
 
 .rating {
@@ -139,6 +142,6 @@ main {
 }
 
 * {
-    border: 1px solid yellowgreen;
+    /* border: 1px solid yellowgreen; */
     box-sizing: border-box;
 }

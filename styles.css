@@ -130,4 +130,5 @@ main {
 
 * {
     border: 1px solid yellowgreen;
+    box-sizing: border-box;
 }

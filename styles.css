@@ -37,7 +37,7 @@ main {
     border-radius: 6px;
     align-items: center;
     padding: 13px 25px;
-    width: 304px;
+    width: 355px;
     background-color: hsl(300, 24%, 96%);
 }
 
@@ -73,8 +73,8 @@ main {
 }
 
 .review {
-    padding: 30px 25px 15px 25px;
-    width: 235px;
+    padding: 30px 25px 18px 20px;
+    width: 280px;
     background-color: hsl(300, 43%, 22%);
     border-radius: 7px;
 }
@@ -129,6 +129,6 @@ main {
 }
 
 * {
-    border: 1px solid yellowgreen;
+    /* border: 1px solid yellowgreen; */
     box-sizing: border-box;
 }

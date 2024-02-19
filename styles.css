@@ -186,10 +186,17 @@ main {
     .rating {
         width: 100%;
         flex-wrap: wrap;
+        row-gap: 10px;
     }
 
     .rating span {
         width: 100%;
+        text-align: center;
+    }
+
+    .stars {
+        width: 100%;
+        text-align: center;
     }
 
 }

@@ -180,3 +180,16 @@ main {
     }
 
 }
+
+@media (max-width: 768px) {
+
+    .rating {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .rating span {
+        width: 100%;
+    }
+
+}

@@ -207,4 +207,15 @@ main {
         flex-direction: column;
     }
 
+    #top-left,
+    #top-right {
+        width: 100%;
+        max-width: 500px;
+        margin: auto;
+    }
+
+    #top-left {
+        text-align: center;
+    }
+
 }

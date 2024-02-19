@@ -200,3 +200,11 @@ main {
     }
 
 }
+
+@media (max-width: 710px) {
+
+    #top-part {
+        flex-direction: column;
+    }
+
+}

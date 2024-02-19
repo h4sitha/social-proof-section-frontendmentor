@@ -57,6 +57,7 @@ main {
     padding: 13px 25px;
     width: 355px;
     background-color: hsl(300, 24%, 96%);
+    column-gap: 25px;
 }
 
 .rating:not(:last-of-type) {
@@ -70,7 +71,6 @@ main {
 
 .rating > span {
     font-weight: 700;
-    margin-left: 25px;
     font-size: 0.91rem;
     color: hsl(300, 43%, 22%);
 }

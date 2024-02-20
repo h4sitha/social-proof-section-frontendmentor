@@ -28,9 +28,9 @@ main {
     flex-direction: column;
     width: 95%;
     max-width: 925px;
-    padding: 20px;
+    padding: 22px;
     gap: 40px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #top-left {

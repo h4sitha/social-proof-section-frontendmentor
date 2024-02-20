@@ -203,6 +203,10 @@ main {
         padding: 0 20px;
     }
 
+    #top-left > p {
+        font-size: 1.05rem;
+    }
+
 }
 
 @media (max-width: 710px) {
